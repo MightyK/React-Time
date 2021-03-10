@@ -2,7 +2,7 @@ body {
     font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
     color: #fff;
     padding: 50px;
-    width: 300px;
+    overflow: hidden;
     margin: 0 auto;
     background-color: #374954;
     text-align: center;
@@ -10,10 +10,11 @@ body {
 
 h1 {
     font-size: 100px;
+
 }
 
 .container {
-    margin: 60% auto;
+    margin: 20% auto;
 }
 
 button {
@@ -26,5 +27,5 @@ button {
     text-align: center;
     color: #fff;
     font-weight: bold;
-    font-weight: 50px;
+    font-size: 50px;
 }
